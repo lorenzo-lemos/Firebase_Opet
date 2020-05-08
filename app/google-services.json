@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242360956217",
+    "firebase_url": "https://fir-opet-661fe.firebaseio.com",
+    "project_id": "fir-opet-661fe",
+    "storage_bucket": "fir-opet-661fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242360956217:android:13d4b95b2e1bb11e7ca4e8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseopet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242360956217-37qkbiedj063ped3drgilkr4uikcjgu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseopet",
+            "certificate_hash": "7f550aa3b83dcb870f643f4f1d3873bedf3816cb"
+          }
+        },
+        {
+          "client_id": "242360956217-53eket5dqt8011049lmbjvo0r299cfph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Zn__6-VE8tqqLrF5LyrnoSLKgbXIBQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242360956217-53eket5dqt8011049lmbjvo0r299cfph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
